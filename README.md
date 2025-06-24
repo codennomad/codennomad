@@ -41,7 +41,7 @@ Meu foco: construir sistemas sólidos, performáticos, inteligentes e bem arquit
 
 ## 📊 Estatísticas do GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codennomad&show_icons=true&theme=tokyonight&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=codennomad&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codennomad&layout=compact&theme=radical" />
 </p>
 
