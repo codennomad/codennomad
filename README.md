@@ -1,45 +1,45 @@
 <h1 align="center">Gabriel Henrique Ferreira Vieira</h1>
-<h3 align="center">Engenheiro de Software | Backend | Cognitive Systems | IA | C | C++ | Python</h3>
+<h3 align="center">Software Engineer | Backend | Cognitive Systems | AI | C | C++ | Python</h3>
 
-<p align="center"><i>"Não construo software. Eu projeto sistemas inteligentes, performáticos e vivos."</i></p>
-
----
-
-## 🧠 Sobre mim
-Sou engenheiro de software em constante evolução, apaixonado por resolver problemas complexos usando tecnologia.  
-Meu trabalho cruza os universos de desenvolvimento backend, inteligência artificial, automação, baixo nível e arquitetura de sistemas escaláveis.  
-
-Atuo na criação de soluções que vão desde pipelines cognitivos com IA até desenvolvimento robusto em C e C++, automações, bots, APIs performáticas e sistemas de dados inteligentes.  
-
-Meu foco: construir sistemas sólidos, performáticos, inteligentes e bem arquitetados — que não só funcionam, mas **pensam, aprendem e entregam valor real.**
+<p align="center"><i>"I don’t just build software. I design intelligent, high-performance, living systems."</i></p>
 
 ---
 
-## 🚀 Tecnologias e Stacks
+## 🧠 About Me
+I’m a software engineer in constant evolution, passionate about solving complex problems through technology.  
+My work bridges the worlds of backend development, artificial intelligence, automation, low-level programming, and scalable systems architecture.  
+
+I create solutions ranging from cognitive AI pipelines to robust development in C and C++, automation tools, bots, high-performance APIs, and intelligent data systems.  
+
+My focus: building solid, high-performance, intelligent, and well-architected systems — that don’t just work, but **think, learn, and deliver real value.**
+
+---
+
+## 🚀 Technologies & Stacks
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,docker,git,linux,c,cpp,tensorflow,openai,vscode" />
 </p>
 
 - 🔥 Backend: Python, C, C++, FastAPI, PostgreSQL, APIs, microservices  
-- 🧠 Inteligência Artificial: Whisper, GPT, FAISS, LangChain, OpenRouter, TTS, ASR, NLP, RAG, memória vetorial, embeddings  
-- 🏗️ Arquitetura: Clean Architecture, pipelines cognitivos, sistemas distribuídos  
-- 🔍 MLOps & DevOps: Docker, Git, versionamento, bancos SQL, NoSQL, VectorDB (FAISS, ChromaDB)  
-- 📡 Automação e Sistemas: Scraping, bots, pipelines de dados, backend resiliente  
+- 🧠 Artificial Intelligence: Whisper, GPT, FAISS, LangChain, OpenRouter, TTS, ASR, NLP, RAG, vector memory, embeddings  
+- 🏗️ Architecture: Clean Architecture, cognitive pipelines, distributed systems  
+- 🔍 MLOps & DevOps: Docker, Git, version control, SQL & NoSQL databases, VectorDB (FAISS, ChromaDB)  
+- 📡 Automation & Systems: Scraping, bots, data pipelines, resilient backend systems  
 
 ---
 
-## 🏗️ Projetos em Destaque
+## 🏗️ Featured Projects
 
-| 🚀 Projeto | 🎯 Descrição |
-|------------|--------------|
-| **🩶 Souljin** | IA VTuber em desenvolvimento — Pipeline cognitivo com ASR, LLM, memória vetorial, TTS, agentes e arquitetura agentic viva. |
-| **🧠 LIENYX** | Sistema que transforma vídeos, PDFs e áudios em notas inteligentes e resumos usando IA e automação backend. |
-| **🎙️ NoctiVox** | Pipeline de IA que transcreve vídeos, gera títulos otimizados para SEO e faz processamento de conteúdo multimídia. |
-| **📜 Scryll** | Bot inteligente que monitora, baixa e organiza capítulos de manhwas/novels automaticamente. |
+| 🚀 Project | 🎯 Description |
+|------------|----------------|
+| **🩶 Souljin** | AI VTuber in development — Cognitive pipeline with ASR, LLM, vector memory, TTS, agents, and a living agentic architecture. |
+| **🧠 LIENYX** | System that transforms videos, PDFs, and audio into intelligent notes and summaries using AI and backend automation. |
+| **🎙️ NoctiVox** | AI pipeline that transcribes videos, generates SEO-optimized titles, and processes multimedia content. |
+| **📜 Scryll** | Intelligent bot that monitors, downloads, and organizes manhwa/novel chapters automatically. |
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=codennomad&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codennomad&layout=compact&theme=radical" />
@@ -48,29 +48,29 @@ Meu foco: construir sistemas sólidos, performáticos, inteligentes e bem arquit
 ---
 
 ## 🛠️ Hard Skills
-- Linguagens: **Python, C, C++**  
-- Bancos: **SQL, NoSQL, VectorDB (FAISS, ChromaDB)**  
-- Backend: **FastAPI, APIs, microservices, automações**  
-- IA: **NLP, Whisper, GPT, embeddings, RAG, agentes cognitivos, memória vetorial**  
-- DevOps e Infraestrutura: **Docker, Git, Linux, versionamento, pipelines inteligentes**  
-- Arquitetura de Sistemas: **Clean Architecture, pipelines cognitivos, automações distribuídas**
+- Languages: **Python, C, C++**  
+- Databases: **SQL, NoSQL, VectorDB (FAISS, ChromaDB)**  
+- Backend: **FastAPI, APIs, microservices, automation**  
+- AI: **NLP, Whisper, GPT, embeddings, RAG, cognitive agents, vector memory**  
+- DevOps & Infrastructure: **Docker, Git, Linux, version control, intelligent pipelines**  
+- Systems Architecture: **Clean Architecture, cognitive pipelines, distributed automation**
 
 ---
 
 ## 🤖 Soft Skills
-- Pensamento crítico e raciocínio lógico  
-- Engenharia de sistemas e arquitetura cognitiva  
-- Alta capacidade de resolução de problemas complexos  
-- Organização, disciplina e mentalidade hacker  
-- Comunicação técnica clara e colaborativa  
-- Proatividade, foco em entrega, melhoria contínua e mentalidade empreendedora  
+- Critical thinking & logical reasoning  
+- Systems engineering & cognitive architecture  
+- High problem-solving ability for complex challenges  
+- Organization, discipline & hacker mindset  
+- Clear and collaborative technical communication  
+- Proactivity, delivery-focused, continuous improvement & entrepreneurial mindset  
 
 ---
 
-## 🔗 Vamos conectar
+## 🔗 Let’s Connect
 - 🔥 [LinkedIn](https://www.linkedin.com/in/gabrielhenrique-tech/)  
-- 🗂️ [Meu GitHub](https://github.com/codennomad)  
+- 🗂️ [My GitHub](https://github.com/codennomad)  
 
 ---
 
-<p align="center"><i>"Se é pra codar, que seja pra hackear a própria realidade. Enquanto outros fazem CRUD, eu projeto mentes digitais e arquiteturas resilientes."</i></p>
+<p align="center"><i>"If I’m going to code, it’s to hack reality itself. While others make CRUDs, I design digital minds and resilient architectures."</i></p>
